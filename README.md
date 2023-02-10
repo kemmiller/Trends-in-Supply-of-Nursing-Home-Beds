@@ -8,7 +8,7 @@ Before running the code:
 
   2. Change the file path of the data and output global statements at the beginning of each .do file to the location of the project folder  
 
-Once these changes have been made, running the file labeled “1. Create Analytic Dataset.do” will construct the analytic data set; running the file labeled “2. Create Tables.do” will produce the tables corresponding to the manuscript; running the file labeled “3. Figures” will create the figures for the manuscript; and, running the file labeled "4. Examine alternative thresholds" creates the tables for the sensitivity analysis examining alternative thresholds of meaningful change in supply of nursing home beds.
+Once these changes have been made, running the file "0. Primary File" will run all of the prior files to reproduce output for the manuscript. Specifically, running the file labeled “1. Create Analytic Dataset.do” will construct the analytic data set; running the file labeled “2. Create Tables.do” will produce the tables corresponding to the manuscript; running the file labeled “3. Figures” will create the figures for the manuscript; and, running the file labeled "4. Examine alternative thresholds" creates the tables for the sensitivity analysis examining alternative thresholds of meaningful change in supply of nursing home beds.
 
 For questions about the code, please contact Katherine Miller (Katherine.miller@pennmedicine.upenn.edu).
 
