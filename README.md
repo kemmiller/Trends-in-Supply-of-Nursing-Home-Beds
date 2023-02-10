@@ -4,7 +4,7 @@
 
 Before running the code:
 
-  1. Copy file contents into personal folder
+  1. Download data sources into personal folder
 
   2. Change the file path of the data and output global statements at the beginning of each .do file to the location of the project folder  
 
@@ -20,7 +20,6 @@ For questions about the code, please contact Katherine Miller (Katherine.miller@
 5. NIC-MAP. NIC-MAP data permissions will be required and data is stored in the HSRDC.
 
 **Running the code:**
-
 This code is for Stata, and has been verified to run in version 17. The following packages are required:
 
   1. Table1
